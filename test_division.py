@@ -3,7 +3,7 @@ from division import dividir
 
 
 
-class TestDivision(unittest.TestCase):
+class TestDividir(unittest.TestCase):
   def test_dividir(self):
     self.assertEqual(dividir(6, 3), 2)
     self.assertEqual(dividir(0, 12), 0)
