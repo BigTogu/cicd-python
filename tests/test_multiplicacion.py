@@ -1,5 +1,5 @@
 import unittest
-from multiplicacion import multiplicar
+from operaciones.multiplicacion import multiplicar
 
 
 
